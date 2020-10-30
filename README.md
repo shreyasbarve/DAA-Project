@@ -3,7 +3,8 @@
 
 <div align="center">
 
-![](https://img.shields.io/badge/Python-3.6 | 3.7 | 3.8 | 3.9-blue.svg?style=for-the-badge)
+![](https://img.shields.io/badge/Python-3.6%20%7C%203.7%20%7C%203.8%20%7C%203.9-blue.svg?style=for-the-badge)
+![](https://img.shields.io/badge/Libraries-Random%20%7C%20Timeit-red.svg?style=for-the-badge)
 ![](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20MacOS-brightgreen.svg?style=for-the-badge)
 
 </div>
