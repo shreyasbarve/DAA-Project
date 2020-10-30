@@ -3,8 +3,8 @@
 
 <div align="center">
 
-![](https://img.shields.io/pypi/pyversions/django?style=for-the-badge)
-![](https://img.shields.io/powershellgallery/p/DNS.1.1.1.1?color=%231CD507&style=for-the-badge)
+![](https://img.shields.io/badge/Python-3.6 | 3.7 | 3.8 | 3.9-blue.svg?style=for-the-badge)
+![](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20MacOS-brightgreen.svg?style=for-the-badge)
 
 </div>
 
